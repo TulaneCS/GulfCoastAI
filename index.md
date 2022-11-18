@@ -16,6 +16,7 @@ NeurIPS 2022 is happening in New Orleans, one of the hearts of the Gulf Coast re
 
 * 18:00 - 18:30: Welcome and Snacks
 * 18:30 - 19:30: Short Talks From Local Speakers
+  * Seung-Jong Jay Park, Dr. Fred H. Fenn Memorial Professor, Louisiana State University and Program Director (IPA),Office of Advanced Cyberinfrastructure, Computer and Information Science and Engineering (CISE), National Science Foundation
 * 19:30 - 20:00: Mingle and Snacks!
 
 ### Sponsors
