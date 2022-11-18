@@ -4,7 +4,7 @@ title: Gulf Coast AI
 subtitle: A Social at NeurIPS 2022
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/logo.jpg' | relative_url }}"/ style="width:128px;height:128px;></p>
+<p style="text-align:center;"><img src="{{ 'img/logo.jpg' | relative_url }}"/></p>
 
 ### Overview
 
