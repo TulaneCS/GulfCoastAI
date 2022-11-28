@@ -14,12 +14,19 @@ NeurIPS 2022 is happening in New Orleans, one of the hearts of the Gulf Coast re
 
 **When:** The social will meet at Room 393 at the New Orleans Convention Center on **Nov 30th, 2022 from 18:00 - 20:00 CT.**
 
-* 18:00 - 18:30: Welcome and Snacks
+* 18:00 - 18:30: Welcome, Mingle, Snacks, and Drinks
 * 18:30 - 19:30: Short Talks From Local Speakers
-  * Seung-Jong Jay Park, Dr. Fred H. Fenn Memorial Professor, Louisiana State University and Program Director (IPA),Office of Advanced Cyberinfrastructure, Computer and Information Science and Engineering (CISE), National Science Foundation
-* 19:30 - 20:00: Mingle and Snacks!
+  * **Robert Lalka**, Albert R. Lepage Professor in Business at Tulane University’s A.B. Freeman School of Business and Executive Director of the Albert Lepage Center for Entrepreneurship and Innovation
+  * **Abdullah Al Redwan Newaz**, Assistant Professor, Computer Science at the University of New Orleans
+  * **Mark Schexnayder**, Senior Environmental Specialist at BATTURE LLC
+  * **Seung-Jong Jay Park**, Dr. Fred H. Fenn Memorial Professor, Louisiana State University and Program Director (IPA),Office of Advanced Cyberinfrastructure, Computer and Information Science and Engineering (CISE), National Science Foundation
+  * **Alessandra Bazzano** PhD, MPH, Associate Professor, Tulane University’s Department of Social, Behavioral, and Population Sciences, and Director of Tulane's Center of Excellence in Maternal Child Health (CEMCH)
+  * **Tauhidul Alam**, Assistant Professor in the Department of Computer Science at Louisiana State University Shreveport (LSUS)
+* 19:30 - 20:00: Open Discussion, Mingle, Snacks, and more Drinks
 
 ### Sponsors
+
+Snacks and Cash Bar provided by the Tulane University Jurist Center for Artificial Intelligence.
 
 <a href="https://ai.tulane.edu/"><img src="{{ 'img/jurist.png' | relative_url }}"/></a> 
 
