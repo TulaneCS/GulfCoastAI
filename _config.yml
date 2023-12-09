@@ -4,7 +4,7 @@
 title: Gulf Coast AI
 
 # Short description of your site
-description: A NeurIPS 2022 Social
+description: A NeurIPS Social Event
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,6 +20,7 @@ description: A NeurIPS 2022 Social
 
 # List of links in the navigation bar
 navbar-links:
+  2022 Event: "22event"
 
 collections:
 
