@@ -18,7 +18,7 @@ NeurIPS 2023 is happening in New Orleans, one of the hearts of the Gulf Coast re
 * 19:30 - 20:30: Panel Discussion on Artificial Intelligence and the Gulf Region: Opportunities and Risks
   * **Alessandra Bazzano** PhD, MPH, Associate Professor, Tulane University’s Department of Social, Behavioral, and Population Sciences, and Director of Tulane's Center of Excellence in Maternal Child Health (CEMCH)
   * **Blake Bertuccelli-Booth**, CEO of Equalify, a web accessibility platform, and Co-Founder of the New Orleans AI (NOAI) symposium.
-  * ** Andrea S. Boyles**, PhD, Associate Professor, Tulane University’s Department of Sociology & Africana Studies, sociologist, criminologist, and author of the books, You Can’t Stop the Revolution: Community Disorder and Social Ties in Post-Ferguson America (UC Press 2019) and Race, Place, and Suburban Policing: Too Close for Comfort (UC Press 2015).
+  * **Andrea S. Boyles**, PhD, Associate Professor, Tulane University’s Department of Sociology & Africana Studies, sociologist, criminologist, and author of the books, You Can’t Stop the Revolution: Community Disorder and Social Ties in Post-Ferguson America (UC Press 2019) and Race, Place, and Suburban Policing: Too Close for Comfort (UC Press 2015).
   * **Walter Issacson**, Leonard Lauder Professor of American History and Values at Tulane, winner of the National Humanities Medal in 2023 and past CEO of the Aspen Institute, former chairman of CNN, and the editor of TIME magazine. Author of bestselling books including Elon Musk; The Code Breaker; Leonardo da Vinci; The Innovators; Steve Jobs; Einstein: His Life and Universe; Benjamin Franklin: An American Life; and Kissinger: A Biography.
   * **Robert Lalka**, Albert R. Lepage Professor in Business at Tulane University’s A.B. Freeman School of Business and Executive Director of the Albert Lepage Center for Entrepreneurship and Innovation
 
@@ -28,9 +28,7 @@ NeurIPS 2023 is happening in New Orleans, one of the hearts of the Gulf Coast re
 
 Snacks and Cash Bar provided by the [Tulane University Jurist Center for Artificial Intelligence](https://sse.tulane.edu/cs/jurist) and the [Tulane Center of Excellence for Community Engaged AI](https://sse.tulane.edu/cs/ceai)
 
-<a href="https://sse.tulane.edu/cs/jurist"><img src="{{ 'img/jurist.png' | relative_url }}"/></a>
-
-<a href="https://sse.tulane.edu/cs/ceai"><img src="{{ 'img/jurist.png' | relative_url }}"/></a>
+<a href="https://sse.tulane.edu/cs/jurist"><img src="{{ 'img/jurist.png' | relative_url }}"/></a> <a href="https://sse.tulane.edu/cs/ceai"><img src="{{ 'img/ceai.png' | relative_url }}"/></a>
 
 
 ### Organization and Contact
