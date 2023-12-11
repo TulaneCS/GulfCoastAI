@@ -12,7 +12,7 @@ NeurIPS 2023 is happening in New Orleans, one of the hearts of the Gulf Coast re
 
 ### Details and Program
 
-**When:** The social will meet at Room 228-230 at the New Orleans Convention Center on **Wednesday Dec 7th from 19:00 - 22:00 CT.**
+**When:** The social will meet at Room 228-230 at the New Orleans Convention Center on **Wednesday Dec 13th from 19:00 - 22:00 CT.**
 
 * 19:00 - 19:30: Welcome, Mingle, Snacks, and Drinks
 * 19:30 - 20:30: Panel Discussion on Artificial Intelligence and the Gulf Region: Opportunities and Risks
