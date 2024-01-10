@@ -6,6 +6,12 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/logo.jpg' | relative_url }}"/></p>
 
+### Thanks!
+
+Thanks to everyone who came out and participated, it was a great program. We've added a few photos of the event below! Photos thanks to Sam Birdsong.
+<p style="text-align:center;"><img src="{{ 'img/panel.jpg' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/crowd.jpg' | relative_url }}" /></p>
+
 ### Overview
 
 NeurIPS 2023 is happening in New Orleans, one of the hearts of the Gulf Coast region and a vibrant area for AI research and application. The goal of this social is to provide a forum and opportunity to raise awareness about the work happening in the region, including the unique and pressing challenges where AI/ML/DS research can have impact including coastal, climate, logistics, and materials. And also, a fun and interactive forum for participants to discuss these challenges and socialize within the broader NeurIPS community. We will gather for drinks and an interactive program where we will hear from a panel of both AI researchers and others working in key industries along the Gulf Coast. Join us for a great time and meeting new folks from around the Gulf Coast AI community!
